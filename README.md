@@ -6,7 +6,7 @@ Bienvenue dans le projet **Real-Time Emotion Detection**, une application compl�
 
 ## 🔗 Démo en ligne
 
-🌐 Application Web : [https://emotion-app-sable.vercel.app/](https://emotion-app-sable.vercel.app/)
+🌐 Application Web : [https://emotion-app-j0yb0y28.vercel.app/](https://emotion-app-j0yb0y28.vercel.app/)
 
 ---
 
@@ -121,5 +121,5 @@ Contact : kanaboumkwoiit@outlouk.com
 ## ✅ To-do futurs (optionnel)
 
 - [ ] Amélioration du modèle avec deep learning
-- [ ] Ajout d'une base de données pour sauvegarder les prédictions
-- [ ] Enregistrement des sessions utilisateur
+- [ ] Ajout d'une base de données pour sauvegarder les prédictions ? ¯\_(ツ)_/¯
+- [ ] Enregistrement des sessions utilisateur ? ¯\_(ツ)_/¯
