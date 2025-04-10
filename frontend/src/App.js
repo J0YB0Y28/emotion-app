@@ -93,7 +93,7 @@ export default function App() {
     formData.append("image", imageBlob, "image.jpg");
     setLoading(true);
     try {
-      const response = await fetch("https://emotion-app-backend.onrender.com", {
+      const response = await fetch("https://emotion-app-backend.onrender.com/predict", {
         method: "POST",
         body: formData
       });
