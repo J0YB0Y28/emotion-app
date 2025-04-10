@@ -98,7 +98,7 @@ export default function App() {
         body: formData
       });
       const data = await response.json();
-      const predicted = data.prediction[0];
+      const predicted = data.prediction ? data.prediction[0] : "Erreur";
       setEmotion(predicted);
       setStats((prev) => ({
         ...prev,
