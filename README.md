@@ -121,5 +121,5 @@ Contact : kanaboumkwoiit@outlouk.com
 ## ✅ To-do futurs ?
 
 - [ ] Amélioration du modèle avec deep learning
-- [ ] Ajout d'une base de données pour sauvegarder les prédictions ? ¯\_(ツ)_/¯
-- [ ] Enregistrement des sessions utilisateur ? ¯\_(ツ)_/¯
+- [ ] Ajout d'une base de données pour sauvegarder les prédictions ? ¯\\_(ツ)_/¯
+- [ ] Enregistrement des sessions utilisateur ? ¯\\_(ツ)_/¯
