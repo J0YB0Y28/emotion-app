@@ -1,0 +1,14 @@
+# Dossiers inutiles pour le déploiement
+*.ipynb
+*.md
+*.sh
+*.ps1
+*.log
+__pycache__/
+*.dat
+*.DS_Store
+node_modules/
+frontend/
+data/raw/
+.venv/
+.env
